@@ -1,0 +1,39 @@
+---
+title: "Chpt 6 exercise"
+output: html_notebook
+---
+
+
+
+## Exercise 6.1
+This approach to data scraping is violating the second guideline: Recognize the parties to whom you have a special professional obligation.
+The researcher is taking advantage of setting up multiple free accounts, in order to collect the data in a shorter time-frame. The website do allow free account to obtain data from their database. However, this researcher is using multiple accounts to scrape the data. This will hurt the legal rights of the website and also increase computation costs when accessing the database.
+
+## Exercise 6.2
+The stakeholders are the users who uses the social media.
+Simply dedentified the data is not enough to protect privacy at all. There are a lot of ways to match the information of the dataset from using other datasets, where the IP, grographic location information and other informations are remained. The ability to link multiple data sets and to use public information to identify individuals is a growing problem. Information like IP and geographic location are not informative in the scope of data science. Even if the data analyst have received permission to post the data set from a social media site, he/she should still remove those information in order to protect privacy.
+
+## Exercise 6.6.
+Ethnicity/race has been a sensitive issue. A lot of data scientists try to stay away from race and ethnicity because of the feature of some old datasets and sometimes, they just trying to not get into troupbles. However, it does not sense to get rid of race/ethnicity attribute from dataset when they are informative and help making decisions. As a data scientist, one should fully trust on the data and try to remove all personal point of views. The reason is that if the data scientists themselve set up some "special" variables, the prediction results and decisions of machine learning models are not accurate. They are just closer to the expectations of the data scientists. 
+
+## Exercise 6.7
+The stakeholders are the students who are applying for financial aids, FAFSA, and the schools.
+In my opinion, this action of the schools is definitly not ethical.FAFSA, who collects the data and present the data to whoever needs the information to make decision on whether give appliers financial aid, is ethnical. They collect the data and share the data with the permissions of the appliers.But it is not enthical for the schools to judge students' willings by it. The FAFSA includes confidential financial information. These information are entered by the students for other purpose - to apply for financial aids. These data, or information should be used for other decisions. WHat the schools have done should be considered as abuse use of data. It is unfair to students who really don't think too much about the order of schools on their lists. 
+
+## Exercise 6.9
+According to the CIPSEA, sec.513.Fines and Penalties, it states that:
+Whoever, being an officer, employee, or agent of an agency
+acquiring information for exclusively statistical purposes, having
+taken and subscribed the oath of office, or having sworn to observe
+the limitations imposed by section 512, comes into possession of
+such information by reason of his or her being an officer, employee,
+or agent and, knowing that the disclosure of the specific information
+is prohibited under the provisions of this title, willfully discloses
+the information in any manner to a person or agency not entitled
+to receive it, shall be guilty of a class E felony and imprisoned
+for not more than 5 years, or fined not more than $250,000, or
+both.
+
+
+
+
